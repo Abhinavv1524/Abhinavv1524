@@ -1,6 +1,6 @@
 ## Hi, I'm Abhinav Choudhary 👋
 
-![Coding](assets/image.gif)
+![Coding](assets/image.jpg)
 
 # 💫 About Me:
 🔭 I’m currently working on My Data Science Skills<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Front-end Development, React, Python, Databases
