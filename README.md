@@ -3,7 +3,7 @@
 ![Coding](assets/image2.jpeg)
 
 # 💫 About Me:
-🔭 I’m currently working on My Data Science Skills<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Front-end Development, React, Python, Databases
+🔭 I’m currently working on My Data Science Skills<br>🌱 I’m currently learning Data Analytics, Machine Learning<br>💬 Ask me about Front-end Development, React, Python, Databases
 
 
 ## 🌐 Socials:
